@@ -64,7 +64,7 @@ VERSIONING_*.md
 # Data files in root (resources/ folder has the needed ones)
 *.csv
 Tensorembedded_examples.json
-kerasembedded_examples.json
+# kerasembedded_examples.json - REQUIRED, do not ignore
 actionable_examples.txt
 pycontracts_*.txt
 rcontext.txt
