@@ -13,6 +13,9 @@ A VS Code extension that detects ML API contract violations and generates execut
 - **Automated Testing**: Creates and runs an automated testing environment to verify that buggy code fails with contract violations and fixed code passes validation
 - **Persistent Environment**: Manages a persistent Python virtual environment with compatible library versions (TensorFlow 2.10.0, Keras 2.10.0, NumPy 1.21.6, PyContracts 1.8.12)
 
+  ![Alt text](images/vscombined.png)
+
+
 ### Built With
 
 - **VS Code Extension API**: Native VS Code extension framework
